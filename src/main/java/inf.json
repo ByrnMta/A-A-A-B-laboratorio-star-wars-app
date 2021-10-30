@@ -1,0 +1,43 @@
+{
+  "Titulo": "Información de los personajes de la saga original de Sky Wars",
+
+  "Nombre": "Luke Skywalker",
+  "Nacimiento":"19 ABY",
+  "Estatura": "1.72 metros",
+
+  "Nombre": "Leia Organa",
+  "Nacimiento":"19 ABY",
+  "Estatura": "1.5 metros",
+
+  "Nombre": "Han Solo",
+  "Nacimiento":"c. 32 DBY",
+  "Estatura": "1.8 metros",
+
+  "Nombre": "Landonis Balthazar Calrissian",
+  "Nacimiento":"30 ABY",
+  "Estatura": "1.77 metros",
+
+  "Nombre": "Chewbacca",
+  "Nacimiento":"200 ABY",
+  "Estatura": "2.3 metros",
+
+  "Nombre": "C-3PO",
+  "Nacimiento":"Antes del 32 ABY",
+  "Estatura": "1.77 metros",
+
+  "Nombre": "R2-D2",
+  "Nacimiento":"20 ABY",
+  "Estatura": "1.08 metros",
+
+  "Nombre": "Wilhuff Tarkin",
+  "Nacimiento":"64 ABY",
+  "Estatura": "1.82 metros",
+
+  "Nombre": "Mon Mothma",
+  "Nacimiento": "46 ABY",
+  "Estatura": "1.73 metros",
+
+  "Nombre": "Yoda",
+  "Nacimiento": "896 ABY",
+  "Estatura": "0.66 metros"
+}
